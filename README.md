@@ -4,10 +4,10 @@ java面试官必备的知识大纲（P5-P8）
 # 大纲
 
 ## JVM
-[!JVM](./image/JVM.png)
+![JVM](./image/JVM.png)
 
 ## 集合
-[!集合](./image/集合.png)
+![集合](./image/集合.png)
 
 ------todo----
 ## 基础语法
